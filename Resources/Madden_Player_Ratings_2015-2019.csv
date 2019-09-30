@@ -265,7 +265,7 @@ BUF,Bills ,Tyrod Taylor,Tyrod,Taylor,QB,72,2015,Offense,58,87,87
 BUF,Bills ,Matt Simms,Matt,Simms,QB,63,2015,Offense,55,79,85
 BUF,Bills ,Jerry Hughes,Jerry,Hughes,RE,85,2015,Defense,66,81,91
 BUF,Bills ,Manny Lawson,Manny,Lawson,RE,77,2015,Defense,72,85,93
-BUF,Bills ,Richie Incognito,Richie,Incognito,RG,79,2015,Offense,93,71,79
+OAK,Raiders ,George Atkinson III,George,Atkinson III,HB,65,2015,Offense,71,89,93
 BUF,Bills ,Chris Williams,Chris,Williams,RG,75,2015,Offense,81,63,45
 BUF,Bills ,William Campbell,William,Campbell,RG,67,2015,Offense,90,66,93
 BUF,Bills ,Randell Johnson,Randell,Johnson,ROLB,69,2015,Defense,75,85,85
@@ -456,7 +456,7 @@ TB,Buccaneers ,Clinton McDonald,Clinton,McDonald,DT,79,2015,Defense,83,74,86
 TB,Buccaneers ,Akeem Spence,Akeem,Spence,DT,73,2015,Defense,90,66,95
 TB,Buccaneers ,Matthew Masifilo,Matthew,Masifilo,DT,68,2015,Defense,93,69,92
 TB,Buccaneers ,Jorvorskie Lane,Jorvorskie,Lane,FB,75,2015,Offense,83,68,90
-TB,Buccaneers ,Joey Iosefa,Joey,Iosefa,FB,65,2015,Offense,83,79,78
+OAK,Raiders,George Atkinson III,George,Atkinson III,HB,64,2016,Offense,71,88,93
 TB,Buccaneers ,Cameron Brate,Cameron,Brate,FB,63,2015,Offense,72,79,91
 TB,Buccaneers ,Chris Conte,Chris,Conte,FS,75,2015,Defense,65,86,93
 TB,Buccaneers ,Keith Tandy,Keith,Tandy,FS,73,2015,Defense,52,87,93
@@ -538,7 +538,7 @@ ARI,Cardinals ,Calais Campbell,Calais,Campbell,LE,95,2015,Defense,87,71,96
 ARI,Cardinals ,Kareem Martin,Kareem,Martin,LE,74,2015,Defense,79,81,91
 ARI,Cardinals ,Josh Mauro,Josh,Mauro,LE,60,2015,Defense,85,65,95
 ARI,Cardinals ,Rodney Gunter,Rodney,Gunter,LE,59,2015,Defense,75,72,88
-ARI,Cardinals ,Mike Iupati,Mike,Iupati,LG,88,2015,Offense,97,61,90
+CLE,Browns,George Atkinson III,George,Atkinson III,HB,63,2017,Offense,72,90,93
 ARI,Cardinals ,Anthony Steen,Anthony,Steen,LG,65,2015,Offense,80,61,86
 ARI,Cardinals ,Jon Halapio,Jon,Halapio,LG,63,2015,Offense,85,60,78
 ARI,Cardinals ,Lorenzo Alexander,Lorenzo,Alexander,LOLB,76,2015,Defense,84,65,90
@@ -652,7 +652,7 @@ SD,Chargers ,Malcom Floyd,Malcom,Floyd,WR,83,2015,Offense,69,82,88
 SD,Chargers ,Stevie Johnson,Stevie,Johnson,WR,83,2015,Offense,65,86,95
 SD,Chargers ,Jacoby Jones,Jacoby,Jones,WR,75,2015,Offense,63,84,91
 SD,Chargers ,Austin Pettis,Austin,Pettis,WR,73,2015,Offense,66,84,87
-SD,Chargers ,Dontrelle Inman,Dontrelle,Inman,WR,71,2015,Offense,54,87,92
+NO,Saints,J.T. Barrett IV,J.T.,Barrett IV,QB,53,2019,Offense,66,82,86
 SD,Chargers ,Titus Davis,Titus,Davis,WR,68,2015,Offense,67,89,84
 SD,Chargers ,Javontee Herndon,Javontee,Herndon,WR,68,2015,Offense,70,90,89
 SD,Chargers ,Torrence Allen,Torrence,Allen,WR,65,2015,Offense,58,91,91
@@ -1254,7 +1254,7 @@ NYJ,Jets ,Tommy Bohanon,Tommy,Bohanon,FB,76,2015,Offense,86,75,88
 NYJ,Jets ,Calvin Pryor,Calvin,Pryor,FS,82,2015,Defense,67,86,93
 NYJ,Jets ,Antonio Allen,Antonio,Allen,FS,79,2015,Defense,62,81,83
 NYJ,Jets ,Rontez Miles,Rontez,Miles,FS,71,2015,Defense,64,85,92
-NYJ,Jets ,Chris Ivory,Chris,Ivory,HB,80,2015,Offense,84,86,83
+LAR,Rams,Matt Colburn II,Matt,Colburn II,HB,62,2019,Offense,70,90,89
 NYJ,Jets ,Stevan Ridley,Stevan,Ridley,HB,76,2015,Offense,81,81,82
 NYJ,Jets ,Zac Stacy,Zac,Stacy,HB,76,2015,Offense,77,86,92
 NYJ,Jets ,Bilal Powell,Bilal,Powell,HB,74,2015,Offense,71,86,88
@@ -1270,7 +1270,7 @@ NYJ,Jets ,Calvin Pace,Calvin,Pace,LOLB,77,2015,Defense,74,71,92
 NYJ,Jets ,Trevor Reilly,Trevor,Reilly,LOLB,69,2015,Defense,78,83,85
 NYJ,Jets ,Lorenzo Mauldin,Lorenzo,Mauldin,LOLB,67,2015,Defense,76,77,82
 NYJ,Jets ,D'Brickashaw Ferguson,D'Brickashaw,Ferguson,LT,84,2015,Offense,87,64,98
-NYJ,Jets ,Ben Ijalana,Ben,Ijalana,LT,66,2015,Offense,86,63,85
+DEN,Broncos,Bennie Fowler III,Bennie,Fowler III,WR,71,2017,Offense,70,91,82
 NYJ,Jets ,Demario Davis,Demario,Davis,MLB,81,2015,Defense,81,87,91
 NYJ,Jets ,David Harris,David,Harris,MLB,81,2015,Defense,78,81,96
 NYJ,Jets ,Joe Mays,Joe,Mays,MLB,77,2015,Defense,82,72,95
@@ -1374,7 +1374,7 @@ DET,Lions ,Brandon Pettigrew,Brandon,Pettigrew,TE,77,2015,Offense,77,75,89
 DET,Lions ,Eric Ebron,Eric,Ebron,TE,75,2015,Offense,73,86,90
 DET,Lions ,David Ausberry,David,Ausberry,TE,74,2015,Offense,72,87,69
 DET,Lions ,Jordan Thompson,Jordan,Thompson,TE,67,2015,Offense,73,77,91
-DET,Lions ,Emil Igwenagu,Emil,Igwenagu,TE,65,2015,Offense,69,76,90
+CHI,Bears,Bennie Fowler III,Bennie,Fowler III,WR,72,2018,Offense,70,90,82
 DET,Lions ,Don Muhlbach,Don,Muhlbach,TE,59,2015,Offense,78,65,92
 DET,Lions ,Calvin Johnson,Calvin,Johnson,WR,95,2015,Offense,78,89,89
 DET,Lions ,Golden Tate,Golden,Tate,WR,88,2015,Offense,59,88,89
@@ -1621,7 +1621,7 @@ OAK,Raiders ,Latavius Murray,Latavius,Murray,HB,78,2015,Offense,72,92,78
 OAK,Raiders ,Roy Helu Jr.,Roy,Helu Jr.,HB,77,2015,Offense,66,90,79
 OAK,Raiders ,Trent Richardson,Trent,Richardson,HB,75,2015,Offense,79,87,95
 OAK,Raiders ,Taiwan Jones,Taiwan,Jones,HB,67,2015,Offense,55,92,88
-OAK,Raiders ,George Atkinson III,George,Atkinson III,HB,65,2015,Offense,71,89,93
+NYG,Giants,Bennie Fowler III,Bennie,Fowler III,WR,71,2019,Offense,70,89,82
 OAK,Raiders ,Michael Dyer,Michael,Dyer,HB,65,2015,Offense,78,86,76
 OAK,Raiders ,Sebastian Janikowski,Sebastian,Janikowski,K,87,2015,Special Teams,55,64,68
 OAK,Raiders ,Giorgio Tavecchio,Giorgio,Tavecchio,K,65,2015,Special Teams,36,70,90
@@ -1860,7 +1860,7 @@ WAS,Redskins ,Adam Hayward,Adam,Hayward,MLB,70,2015,Defense,70,84,90
 WAS,Redskins ,Martrell Spaight,Martrell,Spaight,MLB,61,2015,Defense,77,78,88
 WAS,Redskins ,Ja'Gared Davis,Ja'Gared,Davis,MLB,55,2015,Defense,62,78,92
 WAS,Redskins ,Tress Way,Tress,Way,P,85,2015,Special Teams,44,75,92
-WAS,Redskins ,Robert Griffin III,Robert,Griffin III,QB,78,2015,Offense,57,90,77
+CAR,Panthers,Terry Godwin II,Terry,Godwin II,WR,65,2019,Offense,61,89,89
 WAS,Redskins ,Kirk Cousins,Kirk,Cousins,QB,73,2015,Offense,52,76,88
 WAS,Redskins ,Colt McCoy,Colt,McCoy,QB,73,2015,Offense,46,76,88
 WAS,Redskins ,Jason Hatcher,Jason,Hatcher,RE,87,2015,Defense,85,72,87
@@ -1910,7 +1910,7 @@ NO,Saints ,Toben Opurum,Toben,Opurum,FB,69,2015,Offense,74,83,90
 NO,Saints ,Jairus Byrd,Jairus,Byrd,FS,91,2015,Defense,66,83,84
 NO,Saints ,Rafael Bush,Rafael,Bush,FS,79,2015,Defense,56,87,87
 NO,Saints ,Kenny Phillips,Kenny,Phillips,FS,77,2015,Defense,65,85,81
-NO,Saints ,Mark Ingram,Mark,Ingram,HB,83,2015,Offense,74,85,83
+LAC,Chargers,Melvin Gordon III,Melvin,Gordon III,HB,89,2018,Offense,71,92,92
 NO,Saints ,C.J. Spiller,C.J.,Spiller,HB,82,2015,Offense,62,93,82
 NO,Saints ,Khiry Robinson,Khiry,Robinson,HB,74,2015,Offense,79,81,88
 NO,Saints ,Tim Hightower,Tim,Hightower,HB,72,2015,Offense,77,82,85
@@ -2180,7 +2180,7 @@ HOU,Texans ,Uzoma Nwachukwu,Uzoma,Nwachukwu,WR,67,2015,Offense,74,88,92
 HOU,Texans ,Alan Bonner,Alan,Bonner,WR,61,2015,Offense,52,85,90
 HOU,Texans ,Keith Mumphery,Keith,Mumphery,WR,61,2015,Offense,65,88,92
 TEN,Titans ,Brian Schwenke,Brian,Schwenke,C,72,2015,Offense,91,71,92
-TEN,Titans ,Gabe Ikard,Gabe,Ikard,C,67,2015,Offense,73,67,92
+LAC,Chargers,Melvin Gordon III,Melvin,Gordon III,HB,92,2019,Offense,74,92,89
 TEN,Titans ,Andy Gallik,Andy,Gallik,C,65,2015,Offense,86,56,92
 TEN,Titans ,Jason McCourty,Jason,McCourty,CB,86,2015,Defense,60,92,92
 TEN,Titans ,Perrish Cox,Perrish,Cox,CB,79,2015,Defense,42,84,92
@@ -2352,7 +2352,7 @@ ARI,Cardinals,Chandler Catanzaro,Chandler,Catanzaro,K,80,2016,Special Teams,54,7
 ARI,Cardinals,Calais Campbell,Calais,Campbell,LE,88,2016,Defense,87,71,96
 ARI,Cardinals,Robert Nkemdiche,Robert,Nkemdiche,LE,75,2016,Defense,81,77,88
 ARI,Cardinals,Red Bryant,Red,Bryant,LE,73,2016,Defense,89,69,88
-ARI,Cardinals,Mike Iupati,Mike,Iupati,LG,86,2016,Offense,97,60,90
+WAS,Redskins ,Robert Griffin III,Robert,Griffin III,QB,78,2015,Offense,57,90,77
 ARI,Cardinals,Alex Okafor,Alex,Okafor,LOLB,71,2016,Defense,76,74,95
 ARI,Cardinals,Markus Golden,Markus,Golden,LOLB,69,2016,Defense,69,80,90
 ARI,Cardinals,Shaq Riddick,Shaq,Riddick,LOLB,59,2016,Defense,72,84,88
@@ -2578,7 +2578,7 @@ BUF,Bills,Jordan Gay,Jordan,Gay,K,71,2016,Special Teams,41,69,90
 BUF,Bills,Shaq Lawson,Shaq,Lawson,LE,75,2016,Defense,85,82,84
 BUF,Bills,Lavar Edwards,Lavar,Edwards,LE,66,2016,Defense,72,77,95
 BUF,Bills,IK Enemkpali,IK,Enemkpali,LE,66,2016,Defense,81,71,91
-BUF,Bills,Richie Incognito,Richie,Incognito,LG,90,2016,Offense,92,71,89
+CLE,Browns,Robert Griffin III,Robert,Griffin III,QB,73,2016,Offense,57,85,80
 BUF,Bills,Cyril Richardson,Cyril,Richardson,LG,63,2016,Offense,89,59,92
 BUF,Bills,Lorenzo Alexander,Lorenzo,Alexander,LOLB,72,2016,Defense,83,66,90
 BUF,Bills,Manny Lawson,Manny,Lawson,LOLB,71,2016,Defense,72,85,89
@@ -2884,7 +2884,7 @@ CLE,Browns,Scooby Wright III,Scooby,Wright III,MLB,68,2016,Defense,76,78,82
 CLE,Browns,Tank Carder,Tank,Carder,MLB,65,2016,Defense,66,84,84
 CLE,Browns,Dominique Alexander,Dominique,Alexander,MLB,58,2016,Defense,75,80,83
 CLE,Browns,Andy Lee,Andy,Lee,P,80,2016,Special Teams,40,64,85
-CLE,Browns,Robert Griffin III,Robert,Griffin III,QB,73,2016,Offense,57,85,80
+BAL,Ravens,Robert Griffin III,Robert,Griffin III,QB,71,2018,Offense,55,85,73
 CLE,Browns,Josh McCown,Josh,McCown,QB,71,2016,Offense,57,74,75
 CLE,Browns,Cody Kessler,Cody,Kessler,QB,70,2016,Offense,62,77,89
 CLE,Browns,Austin Davis,Austin,Davis,QB,69,2016,Offense,57,80,92
@@ -3067,7 +3067,7 @@ DEN,Broncos,Mose Frazier,Mose,Frazier,WR,63,2016,Offense,65,87,85
 DEN,Broncos,Bralon Addison,Bralon,Addison,WR,60,2016,Offense,63,89,77
 DET,Lions,Graham Glasgow,Graham,Glasgow,C,69,2016,Offense,84,68,89
 DET,Lions,Travis Swanson,Travis,Swanson,C,67,2016,Offense,82,62,94
-DET,Lions,Gabe Ikard,Gabe,Ikard,C,65,2016,Offense,73,67,92
+BAL,Ravens,Robert Griffin III,Robert,Griffin III,QB,66,2019,Offense,55,85,78
 DET,Lions,Darius Slay,Darius,Slay,CB,90,2016,Defense,54,93,92
 DET,Lions,Quandre Diggs,Quandre,Diggs,CB,74,2016,Defense,67,87,92
 DET,Lions,Nevin Lawson,Nevin,Lawson,CB,70,2016,Defense,62,88,89
@@ -3130,7 +3130,7 @@ DET,Lions,Timothy Wright,Timothy,Wright,TE,71,2016,Offense,65,82,89
 DET,Lions,Adam Fuehne,Adam,Fuehne,TE,64,2016,Offense,76,72,90
 DET,Lions,Don Muhlbach,Don,Muhlbach,TE,50,2016,Offense,77,65,92
 DET,Lions,Jimmy Landes,Jimmy,Landes,TE,46,2016,Offense,74,72,92
-DET,Lions,Golden Tate III,Golden,Tate III,WR,89,2016,Offense,59,90,89
+LAR,Rams,Todd Gurley II,Todd,Gurley II,HB,85,2016,Offense,70,92,81
 DET,Lions,Marvin Jones,Marvin,Jones,WR,82,2016,Offense,66,88,80
 DET,Lions,Anquan Boldin,Anquan,Boldin,WR,79,2016,Offense,79,81,84
 DET,Lions,Jeremy Kerley,Jeremy,Kerley,WR,72,2016,Offense,43,84,90
@@ -3282,7 +3282,7 @@ HOU,Texans,Stephen Anderson,Stephen,Anderson,TE,63,2016,Offense,74,84,87
 HOU,Texans,Jon Weeks,Jon,Weeks,TE,42,2016,Offense,69,69,90
 HOU,Texans,DeAndre Hopkins,DeAndre,Hopkins,WR,93,2016,Offense,66,92,94
 HOU,Texans,Will Fuller V,Will,Fuller V,WR,74,2016,Offense,58,93,86
-HOU,Texans,Cecil Shorts III,Cecil,Shorts III,WR,73,2016,Offense,44,88,87
+LAR,Rams,Todd Gurley II,Todd,Gurley II,HB,85,2017,Offense,70,92,81
 HOU,Texans,Jaelen Strong,Jaelen,Strong,WR,73,2016,Offense,72,91,87
 HOU,Texans,Braxton Miller,Braxton,Miller,WR,71,2016,Offense,69,91,87
 HOU,Texans,Keith Mumphery,Keith,Mumphery,WR,63,2016,Offense,65,88,92
@@ -3379,7 +3379,7 @@ JAX,Jaguars,Michael Bennett,Michael,Bennett,DT,66,2016,Defense,77,71,87
 JAX,Jaguars,Tashaun Gipson,Tashaun,Gipson,FS,77,2016,Defense,71,85,94
 JAX,Jaguars,Earl Wolff,Earl,Wolff,FS,68,2016,Defense,64,88,75
 JAX,Jaguars,Peyton Thompson,Peyton,Thompson,FS,62,2016,Defense,54,88,90
-JAX,Jaguars,Chris Ivory,Chris,Ivory,HB,82,2016,Offense,84,89,83
+LAR,Rams,Todd Gurley II,Todd,Gurley II,HB,92,2018,Offense,70,92,81
 JAX,Jaguars,T.J. Yeldon,T.J.,Yeldon,HB,80,2016,Offense,74,88,84
 JAX,Jaguars,Denard Robinson,Denard,Robinson,HB,73,2016,Offense,46,91,84
 JAX,Jaguars,Corey Grant,Corey,Grant,HB,59,2016,Offense,74,96,82
@@ -3576,7 +3576,7 @@ LAC,Chargers,Mike Windt,Mike,Windt,TE,46,2016,Offense,73,72,88
 LAC,Chargers,Keenan Allen,Keenan,Allen,WR,88,2016,Offense,69,89,88
 LAC,Chargers,Travis Benjamin,Travis,Benjamin,WR,78,2016,Offense,37,93,82
 LAC,Chargers,Stevie Johnson,Stevie,Johnson,WR,77,2016,Offense,65,86,95
-LAC,Chargers,Dontrelle Inman,Dontrelle,Inman,WR,72,2016,Offense,54,87,92
+LAR,Rams,Todd Gurley II,Todd,Gurley II,HB,97,2019,Offense,75,92,85
 LAC,Chargers,Javontee Herndon,Javontee,Herndon,WR,67,2016,Offense,70,89,89
 LAC,Chargers,Torrence Allen,Torrence,Allen,WR,63,2016,Offense,58,91,91
 LAC,Chargers,Deandre Reaves,Deandre,Reaves,WR,62,2016,Offense,71,88,87
@@ -3602,7 +3602,7 @@ LAR,Rams,Louis Trinca-Pasat,Louis,Trinca-Pasat,DT,58,2016,Defense,75,73,77
 LAR,Rams,Cory Harkey,Cory,Harkey,FB,80,2016,Offense,71,68,95
 LAR,Rams,Cody Davis,Cody,Davis,FS,68,2016,Defense,55,90,90
 LAR,Rams,Jordan Lomax,Jordan,Lomax,FS,60,2016,Defense,68,84,90
-LAR,Rams,Todd Gurley II,Todd,Gurley II,HB,85,2016,Offense,70,92,81
+NYJ,Jets,Christopher Herndon IV,Christopher,Herndon IV,TE,69,2018,Offense,71,80,88
 LAR,Rams,Tre Mason,Tre,Mason,HB,78,2016,Offense,66,88,88
 LAR,Rams,Benny Cunningham,Benny,Cunningham,HB,74,2016,Offense,76,86,84
 LAR,Rams,Terrence Magee,Terrence,Magee,HB,69,2016,Offense,74,87,88
@@ -3614,7 +3614,7 @@ LAR,Rams,William Hayes,William,Hayes,LE,85,2016,Defense,84,79,93
 LAR,Rams,Quinton Coples,Quinton,Coples,LE,76,2016,Defense,83,78,93
 LAR,Rams,Cam Thomas,Cam,Thomas,LE,66,2016,Defense,94,64,87
 LAR,Rams,Garrett Reynolds,Garrett,Reynolds,LG,78,2016,Offense,86,57,97
-LAR,Rams,Rodger Saffold III,Rodger,Saffold III,LG,73,2016,Offense,84,61,84
+NYJ,Jets,Christopher Herndon IV,Christopher,Herndon IV,TE,76,2019,Offense,71,80,88
 LAR,Rams,David Arkin,David,Arkin,LG,63,2016,Offense,91,59,89
 LAR,Rams,Mark Barron,Mark,Barron,LOLB,75,2016,Defense,72,86,81
 LAR,Rams,Josh Forrest,Josh,Forrest,LOLB,63,2016,Defense,65,80,92
@@ -3898,7 +3898,7 @@ NO,Saints,Austin Johnson,Austin,Johnson,FB,70,2016,Offense,79,79,91
 NO,Saints,Sione Houma,Sione,Houma,FB,63,2016,Offense,84,77,93
 NO,Saints,Jairus Byrd,Jairus,Byrd,FS,83,2016,Defense,66,85,84
 NO,Saints,Vonn Bell,Vonn,Bell,FS,71,2016,Defense,70,88,88
-NO,Saints,Mark Ingram,Mark,Ingram,HB,83,2016,Offense,74,87,83
+SEA,Seahawkshawks,Germain Ifedi,Germain,Ifedi,RG,75,2016,Offense,82,63,87
 NO,Saints,C.J. Spiller,C.J.,Spiller,HB,78,2016,Offense,62,90,82
 NO,Saints,Tim Hightower,Tim,Hightower,HB,73,2016,Offense,76,84,85
 NO,Saints,Travaris Cadet,Travaris,Cadet,HB,71,2016,Offense,61,86,83
@@ -4057,7 +4057,7 @@ NYJ,Jets,Craig Watts,Craig,Watts,LG,63,2016,Offense,80,56,84
 NYJ,Jets,Jordan Jenkins,Jordan,Jenkins,LOLB,69,2016,Defense,84,76,86
 NYJ,Jets,Trevor Reilly,Trevor,Reilly,LOLB,66,2016,Defense,78,82,85
 NYJ,Jets,Ryan Clady,Ryan,Clady,LT,84,2016,Offense,89,61,71
-NYJ,Jets,Ben Ijalana,Ben,Ijalana,LT,69,2016,Offense,86,62,85
+SEA,Seahawkshawks,Germain Ifedi,Germain,Ifedi,RT,73,2017,Offense,82,63,87
 NYJ,Jets,David Harris,David,Harris,MLB,81,2016,Defense,77,80,96
 NYJ,Jets,Erin Henderson,Erin,Henderson,MLB,75,2016,Defense,73,76,87
 NYJ,Jets,Bruce Carter,Bruce,Carter,MLB,73,2016,Defense,75,83,77
@@ -4120,7 +4120,7 @@ OAK,Raiders,Chris Hackett,Chris,Hackett,FS,63,2016,Defense,63,83,93
 OAK,Raiders,Latavius Murray,Latavius,Murray,HB,81,2016,Offense,72,92,78
 OAK,Raiders,Taiwan Jones,Taiwan,Jones,HB,73,2016,Offense,83,76,90
 OAK,Raiders,DeAndre Washington,DeAndre,Washington,HB,68,2016,Offense,77,90,90
-OAK,Raiders,George Atkinson III,George,Atkinson III,HB,64,2016,Offense,71,88,93
+SEA,Seahawkshawks,Germain Ifedi,Germain,Ifedi,RT,69,2018,Offense,82,63,87
 OAK,Raiders,Sebastian Janikowski,Sebastian,Janikowski,K,79,2016,Special Teams,54,64,90
 OAK,Raiders,Giorgio Tavecchio,Giorgio,Tavecchio,K,67,2016,Special Teams,36,70,90
 OAK,Raiders,Jihad Ward,Jihad,Ward,LE,71,2016,Defense,79,69,91
@@ -4365,7 +4365,7 @@ SEA,Seahawkshawks,Jake Heaps,Jake,Heaps,QB,62,2016,Offense,63,70,88
 SEA,Seahawkshawks,Cliff Avril,Cliff,Avril,RE,90,2016,Defense,72,84,93
 SEA,Seahawkshawks,Cassius Marsh,Cassius,Marsh,RE,67,2016,Defense,66,82,92
 SEA,Seahawkshawks,DeAngelo Tyson,DeAngelo,Tyson,RE,64,2016,Defense,85,70,86
-SEA,Seahawkshawks,Germain Ifedi,Germain,Ifedi,RG,75,2016,Offense,82,63,87
+SEA,Seahawks,Germain Ifedi,Germain,Ifedi,RT,71,2019,Offense,84,63,87
 SEA,Seahawkshawks,Rees Odhiambo,Rees,Odhiambo,RG,68,2016,Offense,83,64,79
 SEA,Seahawkshawks,J'Marcus Webb,J'Marcus,Webb,RG,67,2016,Offense,90,59,93
 SEA,Seahawkshawks,K.J. Wright,K.J.,Wright,ROLB,88,2016,Defense,69,79,95
@@ -4483,7 +4483,7 @@ TB,Buccaneers,Travis Britz,Travis,Britz,DT,57,2016,Defense,79,64,86
 TB,Buccaneers,Bradley McDougald,Bradley,McDougald,FS,77,2016,Defense,64,87,89
 TB,Buccaneers,Major Wright,Major,Wright,FS,74,2016,Defense,63,87,95
 TB,Buccaneers,Doug Martin,Doug,Martin,HB,90,2016,Offense,79,89,88
-TB,Buccaneers,Charles Sims III,Charles,Sims III,HB,82,2016,Offense,67,89,84
+DET,Lions ,Emil Igwenagu,Emil,Igwenagu,TE,65,2015,Offense,69,76,90
 TB,Buccaneers,Mike James,Mike,James,HB,71,2016,Offense,76,86,85
 TB,Buccaneers,Storm Johnson,Storm,Johnson,HB,69,2016,Offense,70,85,93
 TB,Buccaneers,Peyton Barber,Peyton,Barber,HB,62,2016,Offense,78,86,88
@@ -4706,7 +4706,7 @@ ARI,Cardinals,T.J. Logan,T.J.,Logan,HB,69,2017,Offense,69,93,89
 ARI,Cardinals,Phil Dawson,Phil,Dawson,K,80,2017,Special Teams,20,55,85
 ARI,Cardinals,Robert Nkemdiche,Robert,Nkemdiche,LE,76,2017,Defense,81,77,88
 ARI,Cardinals,Ed Stinson,Ed,Stinson,LE,62,2017,Defense,88,73,79
-ARI,Cardinals,Mike Iupati,Mike,Iupati,LG,77,2017,Offense,92,62,90
+NYJ,Jets ,Ben Ijalana,Ben,Ijalana,LT,66,2015,Offense,86,63,85
 ARI,Cardinals,Evan Boehm,Evan,Boehm,LG,68,2017,Offense,82,61,89
 ARI,Cardinals,Daniel Munyer,Daniel,Munyer,LG,63,2017,Offense,78,64,91
 ARI,Cardinals,Markus Golden,Markus,Golden,LOLB,82,2017,Defense,69,81,90
@@ -4928,7 +4928,7 @@ BUF,Bills,Steven Hauschka,Steven,Hauschka,K,76,2017,Special Teams,55,65,90
 BUF,Bills,Shaq Lawson,Shaq,Lawson,LE,76,2017,Defense,85,82,84
 BUF,Bills,Max Valles,Max,Valles,LE,63,2017,Defense,72,78,92
 BUF,Bills,Eddie Yarbrough,Eddie,Yarbrough,LE,63,2017,Defense,82,79,77
-BUF,Bills,Richie Incognito,Richie,Incognito,LG,88,2017,Offense,94,71,89
+NYJ,Jets,Ben Ijalana,Ben,Ijalana,LT,69,2016,Offense,86,62,85
 BUF,Bills,Ryan Groy,Ryan,Groy,LG,72,2017,Offense,86,66,88
 BUF,Bills,Gerald Hodges Jr,Gerald,Hodges Jr,LOLB,79,2017,Defense,70,79,88
 BUF,Bills,Ramon Humber,Ramon,Humber,LOLB,69,2017,Defense,65,84,87
@@ -5198,7 +5198,7 @@ CIN,Bengals,Chris Brown,Chris,Brown,WR,61,2017,Offense,58,89,85
 CIN,Bengals,Alex Erickson,Alex,Erickson,WR,61,2017,Offense,64,88,88
 CLE,Browns,J.C. Tretter,J.C.,Tretter,C,84,2017,Offense,89,69,85
 CLE,Browns,Marcus Martin,Marcus,Martin,C,68,2017,Offense,82,65,83
-CLE,Browns,Gabe Ikard,Gabe,Ikard,C,65,2017,Offense,73,68,92
+NYJ,Jets,Ben Ijalana,Ben,Ijalana,LT,66,2017,Offense,86,64,85
 CLE,Browns,Anthony Fabiano,Anthony,Fabiano,C,64,2017,Offense,86,71,79
 CLE,Browns,Joe Haden,Joe,Haden,CB,81,2017,Defense,66,89,95
 CLE,Browns,Jason McCourty,Jason,McCourty,CB,81,2017,Defense,65,92,92
@@ -5222,7 +5222,7 @@ CLE,Browns,Trey Caldwell,Trey,Caldwell,FS,61,2017,Defense,60,89,89
 CLE,Browns,Isaiah Crowell,Isaiah,Crowell,HB,82,2017,Offense,75,89,93
 CLE,Browns,Duke Johnson Jr,Duke,Johnson Jr,HB,80,2017,Offense,70,90,88
 CLE,Browns,Terrence Magee,Terrence,Magee,HB,64,2017,Offense,74,86,88
-CLE,Browns,George Atkinson III,George,Atkinson III,HB,63,2017,Offense,72,90,93
+NYJ,Jets,Ben Ijalana,Ben,Ijalana,LT,68,2018,Offense,86,63,85
 CLE,Browns,Matthew Dayes,Matthew,Dayes,HB,63,2017,Offense,67,84,87
 CLE,Browns,Cody Parkey,Cody,Parkey,K,74,2017,Special Teams,35,64,92
 CLE,Browns,Zane Gonzalez,Zane,Gonzalez,K,73,2017,Special Teams,45,75,86
@@ -5409,7 +5409,7 @@ DEN,Broncos,Emmanuel Sanders,Emmanuel,Sanders,WR,89,2017,Offense,42,92,87
 DEN,Broncos,Demaryius Thomas,Demaryius,Thomas,WR,87,2017,Offense,77,91,89
 DEN,Broncos,Carlos Henderson,Carlos,Henderson,WR,76,2017,Offense,65,90,85
 DEN,Broncos,Marlon Brown,Marlon,Brown,WR,71,2017,Offense,57,88,82
-DEN,Broncos,Bennie Fowler III,Bennie,Fowler III,WR,71,2017,Offense,70,91,82
+TEN,Titans ,Gabe Ikard,Gabe,Ikard,C,67,2015,Offense,73,67,92
 DEN,Broncos,Cody Latimer,Cody,Latimer,WR,68,2017,Offense,73,90,82
 DEN,Broncos,Isaiah McKenzie,Isaiah,McKenzie,WR,67,2017,Offense,55,92,87
 DEN,Broncos,Jordan Taylor,Jordan,Taylor,WR,65,2017,Offense,56,88,86
@@ -5479,7 +5479,7 @@ DET,Lions,Khari Lee,Khari,Lee,TE,72,2017,Offense,70,76,86
 DET,Lions,Michael Roberts,Michael,Roberts,TE,71,2017,Offense,71,77,90
 DET,Lions,Cole Wick,Cole,Wick,TE,67,2017,Offense,70,76,87
 DET,Lions,Don Muhlbach,Don,Muhlbach,TE,49,2017,Offense,77,65,92
-DET,Lions,Golden Tate III,Golden,Tate III,WR,87,2017,Offense,59,89,89
+DET,Lions,Gabe Ikard,Gabe,Ikard,C,65,2016,Offense,73,67,92
 DET,Lions,Marvin Jones Jr,Marvin,Jones Jr,WR,84,2017,Offense,70,90,89
 DET,Lions,Kenny Golladay,Kenny,Golladay,WR,74,2017,Offense,71,90,88
 DET,Lions,Jared Abbrederis,Jared,Abbrederis,WR,69,2017,Offense,39,89,89
@@ -5731,7 +5731,7 @@ JAX,Jaguars,Marquez Williams,Marquez,Williams,FB,68,2017,Offense,86,81,87
 JAX,Jaguars,Tashaun Gipson,Tashaun,Gipson,FS,75,2017,Defense,71,84,94
 JAX,Jaguars,Peyton Thompson,Peyton,Thompson,FS,62,2017,Defense,54,88,90
 JAX,Jaguars,Leonard Fournette,Leonard,Fournette,HB,81,2017,Offense,83,90,85
-JAX,Jaguars,Chris Ivory,Chris,Ivory,HB,80,2017,Offense,84,89,83
+CLE,Browns,Gabe Ikard,Gabe,Ikard,C,65,2017,Offense,73,68,92
 JAX,Jaguars,T.J. Yeldon,T.J.,Yeldon,HB,79,2017,Offense,74,88,84
 JAX,Jaguars,Corey Grant,Corey,Grant,HB,65,2017,Offense,68,96,82
 JAX,Jaguars,Jason Myers,Jason,Myers,K,78,2017,Special Teams,43,69,85
@@ -5826,7 +5826,7 @@ KC,Chiefs,Terrance Smith,Terrance,Smith,MLB,60,2017,Defense,77,82,78
 KC,Chiefs,Reshard Cliett,Reshard,Cliett,MLB,55,2017,Defense,73,88,86
 KC,Chiefs,Dustin Colquitt,Dustin,Colquitt,P,81,2017,Special Teams,40,69,95
 KC,Chiefs,Alex Smith,Alex,Smith,QB,81,2017,Offense,63,78,88
-KC,Chiefs,Patrick Mahomes II,Patrick,Mahomes II,QB,76,2017,Offense,69,79,93
+BUF,Bills ,Richie Incognito,Richie,Incognito,RG,79,2015,Offense,93,71,79
 KC,Chiefs,Joel Stave,Joel,Stave,QB,62,2017,Offense,60,79,87
 KC,Chiefs,Tyler Bray,Tyler,Bray,QB,60,2017,Offense,54,70,87
 KC,Chiefs,Chris Jones,Chris,Jones,RE,84,2017,Defense,87,61,89
@@ -5923,7 +5923,7 @@ LAC,Chargers,Keenan Allen,Keenan,Allen,WR,89,2017,Offense,69,89,71
 LAC,Chargers,Travis Benjamin,Travis,Benjamin,WR,80,2017,Offense,37,92,82
 LAC,Chargers,Tyrell Williams,Tyrell,Williams,WR,80,2017,Offense,67,91,85
 LAC,Chargers,Mike Williams,Mike,Williams,WR,79,2017,Offense,75,89,86
-LAC,Chargers,Dontrelle Inman,Dontrelle,Inman,WR,76,2017,Offense,54,88,92
+BUF,Bills,Richie Incognito,Richie,Incognito,LG,90,2016,Offense,92,71,89
 LAC,Chargers,Geremy Davis,Geremy,Davis,WR,64,2017,Offense,72,89,83
 LAC,Chargers,Artavis Scott,Artavis,Scott,WR,64,2017,Offense,62,88,92
 LAC,Chargers,Isaiah Burse,Isaiah,Burse,WR,61,2017,Offense,57,87,93
@@ -5951,7 +5951,7 @@ LAR,Rams,Sam Rogers,Sam,Rogers,FB,68,2017,Offense,73,76,93
 LAR,Rams,Lamarcus Joyner,Lamarcus,Joyner,FS,82,2017,Defense,54,88,93
 LAR,Rams,John Johnson,John,Johnson,FS,74,2017,Defense,69,85,93
 LAR,Rams,Cody Davis,Cody,Davis,FS,65,2017,Defense,55,90,90
-LAR,Rams,Todd Gurley II,Todd,Gurley II,HB,85,2017,Offense,70,92,81
+BUF,Bills,Richie Incognito,Richie,Incognito,LG,88,2017,Offense,94,71,89
 LAR,Rams,Lance Dunbar,Lance,Dunbar,HB,77,2017,Offense,54,91,77
 LAR,Rams,Malcolm Brown,Malcolm,Brown,HB,65,2017,Offense,71,89,87
 LAR,Rams,Justin Davis,Justin,Davis,HB,64,2017,Offense,65,88,88
@@ -5959,7 +5959,7 @@ LAR,Rams,Greg Zuerlein,Greg,Zuerlein,K,79,2017,Special Teams,38,76,95
 LAR,Rams,Ethan Westbrooks,Ethan,Westbrooks,LE,72,2017,Defense,82,76,90
 LAR,Rams,A.J. Jefferson,A.J.,Jefferson,LE,63,2017,Defense,85,75,87
 LAR,Rams,Matt Longacre,Matt,Longacre,LE,63,2017,Defense,75,81,87
-LAR,Rams,Rodger Saffold III,Rodger,Saffold III,LG,79,2017,Offense,84,63,84
+OAK,Raiders,Richie Incognito,Richie,Incognito,LG,76,2019,Offense,92,70,89
 LAR,Rams,Jamon Brown,Jamon,Brown,LG,69,2017,Offense,87,70,91
 LAR,Rams,Connor Barwin,Connor,Barwin,LOLB,78,2017,Defense,80,83,94
 LAR,Rams,Josh Forrest,Josh,Forrest,LOLB,63,2017,Defense,65,80,91
@@ -6123,7 +6123,7 @@ MIN,Vikings,Ifeadi Odenigbo,Ifeadi,Odenigbo,RE,65,2017,Defense,82,82,88
 MIN,Vikings,Stephen Weatherly,Stephen,Weatherly,RE,64,2017,Defense,78,82,88
 MIN,Vikings,Joe Berger,Joe,Berger,RG,83,2017,Offense,89,60,90
 MIN,Vikings,Willie Beavers,Willie,Beavers,RG,69,2017,Offense,81,63,89
-MIN,Vikings,Danny Isidora,Danny,Isidora,RG,68,2017,Offense,85,72,86
+NO,Saints ,Mark Ingram II,Mark,Ingram II,HB,83,2015,Offense,74,85,83
 MIN,Vikings,Emmanuel Lamur,Emmanuel,Lamur,ROLB,72,2017,Defense,69,83,88
 MIN,Vikings,Kentrell Brothers,Kentrell,Brothers,ROLB,66,2017,Defense,75,78,92
 MIN,Vikings,Elijah Lee,Elijah,Lee,ROLB,65,2017,Defense,69,82,93
@@ -6135,7 +6135,7 @@ MIN,Vikings,Jayron Kearse,Jayron,Kearse,SS,64,2017,Defense,71,85,91
 MIN,Vikings,Jack Tocho,Jack,Tocho,SS,63,2017,Defense,75,88,87
 MIN,Vikings,Kyle Rudolph,Kyle,Rudolph,TE,85,2017,Offense,75,77,87
 MIN,Vikings,Bucky Hodges,Bucky,Hodges,TE,71,2017,Offense,70,87,91
-MIN,Vikings,David Morgan II,David,Morgan II,TE,67,2017,Offense,81,72,82
+NO,Saints,Mark Ingram II,Mark,Ingram II,HB,83,2016,Offense,74,87,83
 MIN,Vikings,Kyle Carter,Kyle,Carter,TE,57,2017,Offense,70,84,87
 MIN,Vikings,Kevin McDermott,Kevin,McDermott,TE,50,2017,Offense,64,72,92
 MIN,Vikings,Stefon Diggs,Stefon,Diggs,WR,86,2017,Offense,63,91,83
@@ -6244,7 +6244,7 @@ NO,Saints,Rafael Bush,Rafael,Bush,FS,75,2017,Defense,59,87,87
 NO,Saints,Marcus Williams,Marcus,Williams,FS,75,2017,Defense,70,87,90
 NO,Saints,Vonn Bell,Vonn,Bell,FS,74,2017,Defense,67,88,88
 NO,Saints,Robenson Therezie,Robenson,Therezie,FS,67,2017,Defense,71,92,86
-NO,Saints,Mark Ingram,Mark,Ingram,HB,84,2017,Offense,74,87,83
+NO,Saints,Mark Ingram II,Mark,Ingram II,HB,84,2017,Offense,74,87,83
 NO,Saints,Adrian Peterson,Adrian,Peterson,HB,84,2017,Offense,88,90,82
 NO,Saints,Alvin Kamara,Alvin,Kamara,HB,76,2017,Offense,70,88,85
 NO,Saints,Travaris Cadet,Travaris,Cadet,HB,70,2017,Offense,61,87,83
@@ -6286,7 +6286,7 @@ NO,Saints,Michael Hoomanawanui,Michael,Hoomanawanui,TE,74,2017,Offense,84,77,79
 NO,Saints,John Phillips,John,Phillips,TE,71,2017,Offense,75,76,92
 NO,Saints,Thomas Gafford,Thomas,Gafford,TE,62,2017,Offense,72,72,93
 NO,Saints,Michael Thomas,Michael,Thomas,WR,84,2017,Offense,71,89,90
-NO,Saints,Willie Snead IV,Willie,Snead IV,WR,81,2017,Offense,64,89,90
+NO,Saints,Mark Ingram II,Mark,Ingram II,HB,86,2018,Offense,80,88,83
 NO,Saints,Ted Ginn Jr,Ted,Ginn Jr,WR,79,2017,Offense,45,93,90
 NO,Saints,Brandon Coleman,Brandon,Coleman,WR,72,2017,Offense,74,87,88
 NO,Saints,Corey Fuller,Corey,Fuller,WR,70,2017,Offense,57,90,90
@@ -6398,7 +6398,7 @@ NYJ,Jets,Ben Braden,Ben,Braden,LG,63,2017,Offense,83,71,91
 NYJ,Jets,Jordan Jenkins,Jordan,Jenkins,LOLB,69,2017,Defense,84,76,86
 NYJ,Jets,Corey Lemonier,Corey,Lemonier,LOLB,65,2017,Defense,72,85,90
 NYJ,Jets,Freddie Bishop,Freddie,Bishop,LOLB,59,2017,Defense,83,76,91
-NYJ,Jets,Ben Ijalana,Ben,Ijalana,LT,66,2017,Offense,86,64,85
+BAL,Ravens,Mark Ingram II,Mark,Ingram II,HB,86,2019,Offense,82,88,86
 NYJ,Jets,Demario Davis,Demario,Davis,MLB,74,2017,Defense,85,87,91
 NYJ,Jets,Spencer Paysinger,Spencer,Paysinger,MLB,73,2017,Defense,69,79,90
 NYJ,Jets,Bruce Carter,Bruce,Carter,MLB,72,2017,Defense,75,85,77
@@ -6718,7 +6718,7 @@ SEA,Seahawkshawks,David Bass,David,Bass,ROLB,66,2017,Defense,75,77,95
 SEA,Seahawkshawks,Dewey McDonald,Dewey,McDonald,ROLB,59,2017,Defense,73,90,93
 SEA,Seahawkshawks,Ethan Pocic,Ethan,Pocic,RT,75,2017,Offense,85,67,89
 SEA,Seahawkshawks,Oday Aboushi,Oday,Aboushi,RT,74,2017,Offense,78,57,95
-SEA,Seahawkshawks,Germain Ifedi,Germain,Ifedi,RT,73,2017,Offense,82,63,87
+SD,Chargers ,Dontrelle Inman,Dontrelle,Inman,WR,71,2015,Offense,54,87,92
 SEA,Seahawkshawks,Kam Chancellor,Kam,Chancellor,SS,95,2017,Defense,82,87,94
 SEA,Seahawkshawks,Michael Tyson,Michael,Tyson,SS,65,2017,Defense,69,88,92
 SEA,Seahawkshawks,Jimmy Graham,Jimmy,Graham,TE,93,2017,Offense,74,85,92
@@ -6830,7 +6830,7 @@ TB,Buccaneers,Austin Johnson,Austin,Johnson,FB,68,2017,Offense,79,80,91
 TB,Buccaneers,Justin Evans,Justin,Evans,FS,73,2017,Defense,75,86,87
 TB,Buccaneers,Ryan Smith,Ryan,Smith,FS,62,2017,Defense,71,90,88
 TB,Buccaneers,Doug Martin,Doug,Martin,HB,83,2017,Offense,79,88,86
-TB,Buccaneers,Charles Sims III,Charles,Sims III,HB,82,2017,Offense,67,89,84
+LAC,Chargers,Dontrelle Inman,Dontrelle,Inman,WR,72,2016,Offense,54,87,92
 TB,Buccaneers,Jacquizz Rodgers,Jacquizz,Rodgers,HB,78,2017,Offense,62,87,87
 TB,Buccaneers,Jeremy McNichols,Jeremy,McNichols,HB,71,2017,Offense,74,89,89
 TB,Buccaneers,Peyton Barber,Peyton,Barber,HB,61,2017,Offense,74,86,88
@@ -7060,7 +7060,7 @@ ARI,Cardinals,Markus Golden,Markus,Golden,LE,76,2018,Defense,69,81,90
 ARI,Cardinals,Gabe Martin,Gabe,Martin,LE,69,2018,Defense,75,84,87
 ARI,Cardinals,Alec James,Alec,James,LE,63,2018,Defense,81,77,84
 ARI,Cardinals,Moubarak Djeri,Moubarak,Djeri,LE,61,2018,Defense,83,72,86
-ARI,Cardinals,Mike Iupati,Mike,Iupati,LG,76,2018,Offense,92,61,88
+LAC,Chargers,Dontrelle Inman,Dontrelle,Inman,WR,76,2017,Offense,54,88,92
 ARI,Cardinals,Greg Pyke,Greg,Pyke,LG,63,2018,Offense,83,63,93
 ARI,Cardinals,Haason Reddick,Haason,Reddick,LOLB,75,2018,Defense,79,88,90
 ARI,Cardinals,Matthew Oplinger,Matthew,Oplinger,LOLB,63,2018,Defense,79,80,87
@@ -7222,7 +7222,7 @@ BAL,Ravens,Alvin Jones,Alvin,Jones,MLB,59,2018,Defense,66,81,85
 BAL,Ravens,Sam Koch,Sam,Koch,P,84,2018,Special Teams,50,71,85
 BAL,Ravens,Joe Flacco,Joe,Flacco,QB,79,2018,Offense,72,73,95
 BAL,Ravens,Lamar Jackson,Lamar,Jackson,QB,79,2018,Offense,61,91,90
-BAL,Ravens,Robert Griffin III,Robert,Griffin III,QB,71,2018,Offense,55,85,73
+NE,Patriots,Dontrelle Inman,Dontrelle,Inman,WR,74,2019,Offense,60,87,92
 BAL,Ravens,Josh Woodrum,Josh,Woodrum,QB,59,2018,Offense,66,79,87
 BAL,Ravens,Carl Davis,Carl,Davis,RE,75,2018,Defense,88,70,84
 BAL,Ravens,Brent Urban,Brent,Urban,RE,72,2018,Defense,79,76,74
@@ -7245,7 +7245,7 @@ BAL,Ravens,Vince Mayle,Vince,Mayle,TE,71,2018,Offense,69,83,91
 BAL,Ravens,Morgan Cox,Morgan,Cox,TE,41,2018,Offense,64,67,90
 BAL,Ravens,Michael Crabtree,Michael,Crabtree,WR,84,2018,Offense,73,87,85
 BAL,Ravens,John Brown,John,Brown,WR,79,2018,Offense,41,93,87
-BAL,Ravens,Willie Snead IV,Willie,Snead IV,WR,76,2018,Offense,64,89,90
+TB,Buccaneers ,Joey Iosefa,Joey,Iosefa,FB,65,2015,Offense,83,79,78
 BAL,Ravens,Breshad Perriman,Breshad,Perriman,WR,74,2018,Offense,70,95,76
 BAL,Ravens,Chris Moore,Chris,Moore,WR,71,2018,Offense,62,90,89
 BAL,Ravens,Jaleel Scott,Jaleel,Scott,WR,69,2018,Offense,58,87,89
@@ -7271,7 +7271,7 @@ BUF,Bills,Jordan Poyer,Jordan,Poyer,FS,88,2018,Defense,66,87,87
 BUF,Bills,Rafael Bush,Rafael,Bush,FS,72,2018,Defense,59,87,87
 BUF,Bills,Dean Marlowe,Dean,Marlowe,FS,67,2018,Defense,70,86,92
 BUF,Bills,LeSean McCoy,LeSean,McCoy,HB,90,2018,Offense,66,90,81
-BUF,Bills,Chris Ivory,Chris,Ivory,HB,80,2018,Offense,84,88,83
+ARI,Cardinals,Andy Isabella,Andy,Isabella,WR,72,2019,Offense,57,95,90
 BUF,Bills,Travaris Cadet,Travaris,Cadet,HB,74,2018,Offense,61,87,83
 BUF,Bills,Taiwan Jones,Taiwan,Jones,HB,74,2018,Offense,55,92,88
 BUF,Bills,Marcus Murphy,Marcus,Murphy,HB,70,2018,Offense,66,86,77
@@ -7465,7 +7465,7 @@ CHI,Bears,Taylor Gabriel,Taylor,Gabriel,WR,81,2018,Offense,60,94,87
 CHI,Bears,Anthony Miller,Anthony,Miller,WR,74,2018,Offense,68,89,87
 CHI,Bears,Josh Bellamy,Josh,Bellamy,WR,73,2018,Offense,63,89,92
 CHI,Bears,Kevin White,Kevin,White,WR,73,2018,Offense,74,93,74
-CHI,Bears,Bennie Fowler III,Bennie,Fowler III,WR,72,2018,Offense,70,90,82
+IND,Colts,Steve Ishmael,Steve,Ishmael,WR,64,2019,Offense,59,86,86
 CHI,Bears,Marlon Brown,Marlon,Brown,WR,70,2018,Offense,57,87,82
 CHI,Bears,Javon Wims,Javon,Wims,WR,68,2018,Offense,66,88,90
 CHI,Bears,Tanner Gentry,Tanner,Gentry,WR,61,2018,Offense,71,87,84
@@ -7833,7 +7833,7 @@ DET,Lions,Levine Toilolo,Levine,Toilolo,TE,73,2018,Offense,74,76,79
 DET,Lions,Sean McGrath,Sean,McGrath,TE,71,2018,Offense,68,77,90
 DET,Lions,Hakeem Valles,Hakeem,Valles,TE,66,2018,Offense,71,83,85
 DET,Lions,Don Muhlbach,Don,Muhlbach,TE,56,2018,Offense,77,65,92
-DET,Lions,Golden Tate III,Golden,Tate III,WR,89,2018,Offense,62,89,89
+MIN,Vikings,Danny Isidora,Danny,Isidora,RG,68,2017,Offense,85,72,86
 DET,Lions,Marvin Jones Jr,Marvin,Jones Jr,WR,87,2018,Offense,70,90,89
 DET,Lions,Kenny Golladay,Kenny,Golladay,WR,78,2018,Offense,71,90,88
 DET,Lions,T.J. Jones,T.J.,Jones,WR,76,2018,Offense,54,90,94
@@ -7956,7 +7956,7 @@ HOU,Texans,Dylan Cole,Dylan,Cole,MLB,75,2018,Defense,84,85,86
 HOU,Texans,Ben Heeney,Ben,Heeney,MLB,68,2018,Defense,73,86,85
 HOU,Texans,Shane Lechler,Shane,Lechler,P,78,2018,Special Teams,33,60,85
 HOU,Texans,Deshaun Watson,Deshaun,Watson,QB,82,2018,Offense,61,84,89
-HOU,Texans,Joe Webb III,Joe,Webb III,QB,68,2018,Offense,65,88,88
+MIN,Vikings,Danny Isidora,Danny,Isidora,RG,68,2018,Offense,85,72,86
 HOU,Texans,Stephen Morris,Stephen,Morris,QB,63,2018,Offense,56,84,85
 HOU,Texans,Brandon Weeden,Brandon,Weeden,QB,62,2018,Offense,52,74,89
 HOU,Texans,Christian Covington,Christian,Covington,RE,75,2018,Defense,78,76,81
@@ -8180,7 +8180,7 @@ KC,Chiefs,Dorian O'Daniel,Dorian,O'Daniel,MLB,67,2018,Defense,73,85,90
 KC,Chiefs,Terrance Smith,Terrance,Smith,MLB,67,2018,Defense,77,82,80
 KC,Chiefs,Ben Niemann,Ben,Niemann,MLB,58,2018,Defense,64,81,88
 KC,Chiefs,Dustin Colquitt,Dustin,Colquitt,P,83,2018,Special Teams,40,69,95
-KC,Chiefs,Patrick Mahomes II,Patrick,Mahomes II,QB,77,2018,Offense,69,79,93
+MIN,Vikings,Danny Isidora,Danny,Isidora,RG,62,2019,Offense,85,72,86
 KC,Chiefs,Chad Henne,Chad,Henne,QB,67,2018,Offense,64,65,90
 KC,Chiefs,Matt McGloin,Matt,McGloin,QB,61,2018,Offense,55,74,92
 KC,Chiefs,Chris Jones,Chris,Jones,RE,87,2018,Defense,89,71,90
@@ -8229,7 +8229,7 @@ LAC,Chargers,Damion Square,Damion,Square,DT,69,2018,Defense,80,63,87
 LAC,Chargers,Derek Watt,Derek,Watt,FB,66,2018,Offense,74,81,90
 LAC,Chargers,Jahleel Addae,Jahleel,Addae,FS,82,2018,Defense,62,84,92
 LAC,Chargers,Adrian Phillips,Adrian,Phillips,FS,74,2018,Defense,63,87,92
-LAC,Chargers,Melvin Gordon III,Melvin,Gordon III,HB,89,2018,Offense,71,92,92
+ARI,Cardinals ,Mike Iupati,Mike,Iupati,LG,88,2015,Offense,97,61,90
 LAC,Chargers,Austin Ekeler,Austin,Ekeler,HB,81,2018,Offense,64,92,88
 LAC,Chargers,Justin Jackson,Justin,Jackson,HB,71,2018,Offense,62,89,91
 LAC,Chargers,Russell Hansbrough,Russell,Hansbrough,HB,62,2018,Offense,63,87,88
@@ -8301,18 +8301,18 @@ LAR,Rams,Chunky Clements,Chunky,Clements,DT,66,2018,Defense,83,68,80
 LAR,Rams,Lamarcus Joyner,Lamarcus,Joyner,FS,90,2018,Defense,54,88,93
 LAR,Rams,Marqui Christian,Marqui,Christian,FS,65,2018,Defense,67,88,88
 LAR,Rams,Isaiah Johnson,Isaiah,Johnson,FS,65,2018,Defense,69,81,90
-LAR,Rams,Todd Gurley II,Todd,Gurley II,HB,92,2018,Offense,70,92,81
+ARI,Cardinals,Mike Iupati,Mike,Iupati,LG,86,2016,Offense,97,60,90
 LAR,Rams,Justin Davis,Justin,Davis,HB,70,2018,Offense,65,88,88
 LAR,Rams,John Kelly,John,Kelly,HB,70,2018,Offense,75,85,88
 LAR,Rams,Malcolm Brown,Malcolm,Brown,HB,69,2018,Offense,73,89,87
-LAR,Rams,Larry Rose III,Larry,Rose III,HB,65,2018,Offense,60,90,88
+ARI,Cardinals,Mike Iupati,Mike,Iupati,LG,77,2017,Offense,92,62,90
 LAR,Rams,Greg Zuerlein,Greg,Zuerlein,K,80,2018,Special Teams,38,75,95
 LAR,Rams,Sam Ficken,Sam,Ficken,K,72,2018,Special Teams,51,74,85
 LAR,Rams,Michael Brockers,Michael,Brockers,LE,88,2018,Defense,89,64,95
 LAR,Rams,Morgan Fox,Morgan,Fox,LE,75,2018,Defense,84,76,91
 LAR,Rams,Ethan Westbrooks,Ethan,Westbrooks,LE,73,2018,Defense,82,76,90
 LAR,Rams,Justin Lawler,Justin,Lawler,LE,66,2018,Defense,78,73,92
-LAR,Rams,Rodger Saffold III,Rodger,Saffold III,LG,80,2018,Offense,84,62,84
+ARI,Cardinals,Mike Iupati,Mike,Iupati,LG,76,2018,Offense,92,61,88
 LAR,Rams,Austin Blythe,Austin,Blythe,LG,65,2018,Offense,82,60,93
 LAR,Rams,Jamil Demby,Jamil,Demby,LG,65,2018,Offense,85,55,92
 LAR,Rams,Samson Ebukam,Samson,Ebukam,LOLB,75,2018,Defense,83,86,92
@@ -8482,7 +8482,7 @@ MIN,Vikings,Ifeadi Odenigbo,Ifeadi,Odenigbo,RE,69,2018,Defense,82,82,88
 MIN,Vikings,Stephen Weatherly,Stephen,Weatherly,RE,69,2018,Defense,78,82,88
 MIN,Vikings,Tashawn Bower,Tashawn,Bower,RE,68,2018,Defense,77,79,88
 MIN,Vikings,Tom Compton,Tom,Compton,RG,69,2018,Offense,90,70,94
-MIN,Vikings,Danny Isidora,Danny,Isidora,RG,68,2018,Offense,85,72,86
+SEA,Seahawks,Mike Iupati,Mike,Iupati,LG,74,2019,Offense,90,60,88
 MIN,Vikings,Chris Gonzalez,Chris,Gonzalez,RG,57,2018,Offense,80,58,88
 MIN,Vikings,Anthony Barr,Anthony,Barr,ROLB,84,2018,Defense,77,88,85
 MIN,Vikings,Antwione Williams,Antwione,Williams,ROLB,69,2018,Defense,74,79,91
@@ -8494,7 +8494,7 @@ MIN,Vikings,Jayron Kearse,Jayron,Kearse,SS,67,2018,Defense,71,85,91
 MIN,Vikings,Jack Tocho,Jack,Tocho,SS,66,2018,Defense,75,88,87
 MIN,Vikings,Tray Matthews,Tray,Matthews,SS,63,2018,Defense,70,87,81
 MIN,Vikings,Kyle Rudolph,Kyle,Rudolph,TE,86,2018,Offense,75,77,87
-MIN,Vikings,David Morgan II,David,Morgan II,TE,73,2018,Offense,81,72,82
+NYJ,Jets ,Chris Ivory,Chris,Ivory,HB,80,2015,Offense,84,86,83
 MIN,Vikings,Tyler Conklin,Tyler,Conklin,TE,68,2018,Offense,65,79,84
 MIN,Vikings,Blake Bell,Blake,Bell,TE,62,2018,Offense,70,79,84
 MIN,Vikings,Kevin McDermott,Kevin,McDermott,TE,51,2018,Offense,64,72,92
@@ -8569,7 +8569,7 @@ NE,Patriots,Dwayne Allen,Dwayne,Allen,TE,81,2018,Offense,82,75,87
 NE,Patriots,Will Tye,Will,Tye,TE,77,2018,Offense,73,87,88
 NE,Patriots,Jacob Hollister,Jacob,Hollister,TE,72,2018,Offense,67,84,84
 NE,Patriots,Troy Niklas,Troy,Niklas,TE,72,2018,Offense,82,77,87
-NE,Patriots,Ryan Izzo,Ryan,Izzo,TE,68,2018,Offense,70,74,87
+JAX,Jaguars,Chris Ivory,Chris,Ivory,HB,82,2016,Offense,84,89,83
 NE,Patriots,Joe Cardona,Joe,Cardona,TE,38,2018,Offense,82,75,91
 NE,Patriots,Julian Edelman,Julian,Edelman,WR,88,2018,Offense,68,85,88
 NE,Patriots,Chris Hogan,Chris,Hogan,WR,83,2018,Offense,72,88,88
@@ -8604,7 +8604,7 @@ NO,Saints,Marcus Williams,Marcus,Williams,FS,84,2018,Defense,70,87,90
 NO,Saints,Natrell Jamerson,Natrell,Jamerson,FS,67,2018,Defense,74,92,88
 NO,Saints,Sharrod Neasman,Sharrod,Neasman,FS,62,2018,Defense,78,83,88
 NO,Saints,Alvin Kamara,Alvin,Kamara,HB,88,2018,Offense,70,90,85
-NO,Saints,Mark Ingram II,Mark,Ingram II,HB,86,2018,Offense,80,88,83
+JAX,Jaguars,Chris Ivory,Chris,Ivory,HB,80,2017,Offense,84,89,83
 NO,Saints,Terrance West,Terrance,West,HB,75,2018,Offense,69,87,91
 NO,Saints,Boston Scott,Boston,Scott,HB,72,2018,Offense,71,92,87
 NO,Saints,Trey Edmunds,Trey,Edmunds,HB,68,2018,Offense,71,90,81
@@ -8763,7 +8763,7 @@ NYJ,Jets,David Bass,David,Bass,LOLB,75,2018,Defense,76,76,95
 NYJ,Jets,Kevin Pierre-Louis,Kevin,Pierre-Louis,LOLB,72,2018,Defense,80,87,85
 NYJ,Jets,Kelvin Beachum,Kelvin,Beachum,LT,79,2018,Offense,84,58,95
 NYJ,Jets,Antonio Garcia,Antonio,Garcia,LT,68,2018,Offense,83,67,85
-NYJ,Jets,Ben Ijalana,Ben,Ijalana,LT,68,2018,Offense,86,63,85
+BUF,Bills,Chris Ivory,Chris,Ivory,HB,80,2018,Offense,84,88,83
 NYJ,Jets,Avery Williamson,Avery,Williamson,MLB,83,2018,Defense,78,84,92
 NYJ,Jets,Darron Lee,Darron,Lee,MLB,73,2018,Defense,72,87,90
 NYJ,Jets,Kevin Minter,Kevin,Minter,MLB,73,2018,Defense,77,78,86
@@ -8790,7 +8790,7 @@ NYJ,Jets,Doug Middleton,Doug,Middleton,SS,63,2018,Defense,69,87,87
 NYJ,Jets,Clive Walford,Clive,Walford,TE,73,2018,Offense,72,79,88
 NYJ,Jets,Jordan Leggett,Jordan,Leggett,TE,71,2018,Offense,70,82,86
 NYJ,Jets,Eric Tomlinson,Eric,Tomlinson,TE,71,2018,Offense,78,80,91
-NYJ,Jets,Christopher Herndon IV,Christopher,Herndon IV,TE,69,2018,Offense,71,80,88
+NE,Patriots,Ryan Izzo,Ryan,Izzo,TE,68,2018,Offense,70,74,87
 NYJ,Jets,Thomas Hennessy,Thomas,Hennessy,TE,43,2018,Offense,64,71,87
 NYJ,Jets,Robby Anderson,Robby,Anderson,WR,84,2018,Offense,61,94,85
 NYJ,Jets,Jermaine Kearse,Jermaine,Kearse,WR,83,2018,Offense,59,90,96
@@ -8826,7 +8826,7 @@ OAK,Raiders,Marshawn Lynch,Marshawn,Lynch,HB,85,2018,Offense,88,88,87
 OAK,Raiders,Doug Martin,Doug,Martin,HB,76,2018,Offense,79,87,86
 OAK,Raiders,Jalen Richard,Jalen,Richard,HB,76,2018,Offense,65,90,88
 OAK,Raiders,DeAndre Washington,DeAndre,Washington,HB,74,2018,Offense,71,91,90
-OAK,Raiders,Chris Warren III,Chris,Warren III,HB,64,2018,Offense,81,83,82
+NE,Patriots,Ryan Izzo,Ryan,Izzo,TE,69,2019,Offense,70,74,87
 OAK,Raiders,Giorgio Tavecchio,Giorgio,Tavecchio,K,76,2018,Special Teams,36,70,90
 OAK,Raiders,Khalil Mack,Khalil,Mack,LE,98,2018,Defense,89,87,97
 OAK,Raiders,Arden Key,Arden,Key,LE,70,2018,Defense,77,78,87
@@ -9076,7 +9076,7 @@ SEA,Seahawkshawks,Avery Young,Avery,Young,RG,62,2018,Offense,75,60,88
 SEA,Seahawkshawks,K.J. Wright,K.J.,Wright,ROLB,83,2018,Defense,69,80,95
 SEA,Seahawkshawks,Shaquem Griffin,Shaquem,Griffin,ROLB,72,2018,Defense,75,91,91
 SEA,Seahawkshawks,Jacob Pugh,Jacob,Pugh,ROLB,63,2018,Defense,70,84,83
-SEA,Seahawkshawks,Germain Ifedi,Germain,Ifedi,RT,69,2018,Offense,82,63,87
+TB,Buccaneers,Ronald Jones II,Ronald,Jones II,HB,77,2018,Offense,68,93,86
 SEA,Seahawkshawks,George Fant,George,Fant,RT,68,2018,Offense,85,78,86
 SEA,Seahawkshawks,Willie Beavers,Willie,Beavers,RT,66,2018,Offense,81,63,89
 SEA,Seahawkshawks,Kam Chancellor,Kam,Chancellor,SS,90,2018,Defense,82,86,94
@@ -9190,8 +9190,8 @@ TB,Buccaneers,Austin Johnson,Austin,Johnson,FB,59,2018,Offense,83,64,89
 TB,Buccaneers,Chris Conte,Chris,Conte,FS,73,2018,Defense,65,86,93
 TB,Buccaneers,Justin Evans,Justin,Evans,FS,71,2018,Defense,75,87,87
 TB,Buccaneers,Isaiah Johnson,Isaiah,Johnson,FS,65,2018,Defense,69,81,90
-TB,Buccaneers,Ronald Jones II,Ronald,Jones II,HB,77,2018,Offense,68,93,86
-TB,Buccaneers,Charles Sims III,Charles,Sims III,HB,77,2018,Offense,67,89,84
+TB,Buccaneers,Ronald Jones II,Ronald,Jones II,HB,68,2019,Offense,68,93,85
+KC,Chiefs,Patrick Mahomes II,Patrick,Mahomes II,QB,76,2017,Offense,69,79,93
 TB,Buccaneers,Jacquizz Rodgers,Jacquizz,Rodgers,HB,72,2018,Offense,62,87,87
 TB,Buccaneers,Peyton Barber,Peyton,Barber,HB,71,2018,Offense,75,87,88
 TB,Buccaneers,Dalton Crossan,Dalton,Crossan,HB,59,2018,Offense,63,88,88
@@ -9557,7 +9557,7 @@ CIN,Bengals,Darqueze Dennard,Darqueze,Dennard,CB,77,2019,Defense,62,90,87
 CIN,Bengals,Clint Boling,Clint,Boling,RG,76,2019,Offense,87,60,97
 CIN,Bengals,Preston Brown,Preston,Brown,MLB,75,2019,Defense,81,78,95
 CIN,Bengals,Cordy Glenn,Cordy,Glenn,LG,74,2019,Offense,92,67,89
-CIN,Bengals,John Ross III,John,Ross III,WR,74,2019,Offense,51,97,85
+KC,Chiefs,Patrick Mahomes II,Patrick,Mahomes II,QB,77,2018,Offense,69,79,93
 CIN,Bengals,Randy Bullock,Randy,Bullock,K,73,2019,Special Teams,61,68,87
 CIN,Bengals,Sam Hubbard,Sam,Hubbard,RE,73,2019,Defense,74,78,92
 CIN,Bengals,Jordan Willis,Jordan,Willis,LE,73,2019,Defense,85,87,93
@@ -9864,7 +9864,7 @@ TB,Buccaneers,M.J. Stewart Jr,M.J.,Stewart Jr,SS,69,2019,Defense,66,87,93
 TB,Buccaneers,Deone Bucannon,Deone,Bucannon,MLB,68,2019,Defense,78,88,92
 TB,Buccaneers,Jamel Dean,Jamel,Dean,CB,68,2019,Defense,66,94,78
 TB,Buccaneers,Mike Edwards,Mike,Edwards,FS,68,2019,Defense,63,88,86
-TB,Buccaneers,Ronald Jones II,Ronald,Jones II,HB,68,2019,Offense,68,93,85
+JAX,Jaguars,Gardner Minshew II,Gardner,Minshew II,QB,59,2019,Offense,61,75,91
 TB,Buccaneers,Cairo Santos,Cairo,Santos,K,68,2019,Special Teams,33,75,80
 TB,Buccaneers,Donovan Smith,Donovan,Smith,LT,68,2019,Offense,88,71,87
 TB,Buccaneers,Ryan Smith,Ryan,Smith,CB,68,2019,Defense,68,90,88
@@ -9930,7 +9930,7 @@ ARI,Cardinals,Justin Pugh,Justin,Pugh,RG,73,2019,Offense,88,67,88
 ARI,Cardinals,Hakeem Butler,Hakeem,Butler,WR,72,2019,Offense,73,88,92
 ARI,Cardinals,Chase Edmonds,Chase,Edmonds,HB,72,2019,Offense,64,88,84
 ARI,Cardinals,D.J. Humphries,D.J.,Humphries,LT,72,2019,Offense,87,68,82
-ARI,Cardinals,Andy Isabella,Andy,Isabella,WR,72,2019,Offense,57,95,90
+MIN,Vikings,David Morgan II,David,Morgan II,TE,67,2017,Offense,81,72,82
 ARI,Cardinals,J.R. Sweezy,J.R.,Sweezy,LG,72,2019,Offense,84,75,87
 ARI,Cardinals,Kevin White,Kevin,White,WR,72,2019,Offense,71,92,74
 ARI,Cardinals,David Amerson,David,Amerson,CB,71,2019,Defense,65,89,91
@@ -9980,7 +9980,7 @@ ARI,Cardinals,Dennis Gardeck,Dennis,Gardeck,MLB,53,2019,Defense,81,85,87
 ARI,Cardinals,Chad Kanoff,Chad,Kanoff,QB,48,2019,Offense,57,71,83
 ARI,Cardinals,Aaron Brewer,Aaron,Brewer,TE,43,2019,Offense,68,71,92
 LAC,Chargers,Philip Rivers,Philip,Rivers,QB,94,2019,Offense,62,65,98
-LAC,Chargers,Melvin Gordon III,Melvin,Gordon III,HB,92,2019,Offense,74,92,89
+MIN,Vikings,David Morgan II,David,Morgan II,TE,73,2018,Offense,81,72,82
 LAC,Chargers,Keenan Allen,Keenan,Allen,WR,89,2019,Offense,69,87,83
 LAC,Chargers,Casey Hayward Jr,Casey,Hayward Jr,CB,89,2019,Defense,69,89,87
 LAC,Chargers,Joey Bosa,Joey,Bosa,LE,88,2019,Defense,87,80,89
@@ -10014,7 +10014,7 @@ LAC,Chargers,Derek Watt,Derek,Watt,FB,70,2019,Offense,74,81,90
 LAC,Chargers,Dylan Cantrell,Dylan,Cantrell,WR,69,2019,Offense,65,86,86
 LAC,Chargers,Drue Tranquill,Drue,Tranquill,MLB,69,2019,Defense,77,87,81
 LAC,Chargers,Kyzir White,Kyzir,White,ROLB,69,2019,Defense,67,83,88
-LAC,Chargers,Michael Schofield III,Michael,Schofield III,RG,68,2019,Offense,85,71,94
+MIN,Vikings,David Morgan II,David,Morgan II,TE,71,2019,Offense,81,72,82
 LAC,Chargers,Sean Culkin,Sean,Culkin,TE,67,2019,Offense,75,82,88
 LAC,Chargers,Isaac Rochell,Isaac,Rochell,LE,67,2019,Defense,88,76,94
 LAC,Chargers,Damion Square,Damion,Square,DT,67,2019,Defense,84,63,87
@@ -10050,7 +10050,7 @@ LAC,Chargers,Tre'von Johnson,Tre'von,Johnson,MLB,55,2019,Defense,68,86,88
 LAC,Chargers,Cole Toner,Cole,Toner,C,54,2019,Offense,78,62,87
 LAC,Chargers,Trenton Scott,Trenton,Scott,RT,52,2019,Offense,80,60,90
 LAC,Chargers,Mike Windt,Mike,Windt,TE,46,2019,Offense,72,71,88
-KC,Chiefs,Patrick Mahomes,Patrick,Mahomes,QB,97,2019,Offense,69,81,94
+KC,Chiefs,Patrick Mahomes II,Patrick,Mahomes II,QB,97,2019,Offense,69,81,94
 KC,Chiefs,Travis Kelce,Travis,Kelce,TE,96,2019,Offense,79,85,88
 KC,Chiefs,Tyreek Hill,Tyreek,Hill,WR,94,2019,Offense,64,99,88
 KC,Chiefs,Mitchell Schwartz,Mitchell,Schwartz,RT,93,2019,Offense,88,59,98
@@ -10177,7 +10177,7 @@ IND,Colts,Khari Willis,Khari,Willis,FS,66,2019,Defense,70,86,89
 IND,Colts,Grover Stewart,Grover,Stewart,DT,65,2019,Defense,90,68,93
 IND,Colts,Evan Boehm,Evan,Boehm,LG,64,2019,Offense,83,61,89
 IND,Colts,Gerri Green,Gerri,Green,LE,64,2019,Defense,73,85,89
-IND,Colts,Steve Ishmael,Steve,Ishmael,WR,64,2019,Offense,59,86,86
+LAR,Rams,Larry Rose III,Larry,Rose III,HB,65,2018,Offense,60,90,88
 IND,Colts,Ahmad Thomas,Ahmad,Thomas,LOLB,64,2019,Defense,68,83,86
 IND,Colts,Joe Haeg,Joe,Haeg,RT,63,2019,Offense,83,67,92
 IND,Colts,Jihad Ward,Jihad,Ward,DT,63,2019,Defense,79,69,87
@@ -10491,7 +10491,7 @@ ATL,Falcons,Josh Harris,Josh,Harris,TE,51,2019,Offense,64,76,95
 ATL,Falcons,Kurt Benkert,Kurt,Benkert,QB,47,2019,Offense,55,74,83
 NYG,Giants,Saquon Barkley,Saquon,Barkley,HB,91,2019,Offense,81,92,93
 NYG,Giants,Kevin Zeitler,Kevin,Zeitler,RG,89,2019,Offense,91,59,91
-NYG,Giants,Golden Tate III,Golden,Tate III,WR,85,2019,Offense,62,90,89
+CIN,Bengals,John Ross III,John,Ross III,WR,74,2019,Offense,51,97,85
 NYG,Giants,Evan Engram,Evan,Engram,TE,84,2019,Offense,66,90,88
 NYG,Giants,Jabrill Peppers,Jabrill,Peppers,SS,84,2019,Defense,73,90,87
 NYG,Giants,Aldrick Rosas,Aldrick,Rosas,K,84,2019,Special Teams,30,68,83
@@ -10513,7 +10513,7 @@ NYG,Giants,Russell Shepard,Russell,Shepard,WR,72,2019,Offense,45,89,89
 NYG,Giants,Michael Thomas,Michael,Thomas,SS,72,2019,Defense,75,89,90
 NYG,Giants,DeAndre Baker,DeAndre,Baker,CB,71,2019,Defense,60,88,87
 NYG,Giants,Lorenzo Carter,Lorenzo,Carter,LOLB,71,2019,Defense,74,88,89
-NYG,Giants,Bennie Fowler III,Bennie,Fowler III,WR,71,2019,Offense,70,89,82
+LAR,Rams,Rodger Saffold III,Rodger,Saffold III,LG,73,2016,Offense,84,61,84
 NYG,Giants,Markus Golden,Markus,Golden,LOLB,71,2019,Defense,69,80,90
 NYG,Giants,Kareem Martin,Kareem,Martin,ROLB,71,2019,Defense,79,82,91
 NYG,Giants,Grant Haley,Grant,Haley,CB,70,2019,Defense,59,91,86
@@ -10624,7 +10624,7 @@ JAX,Jaguars,Joe Giles-Harris,Joe,Giles-Harris,MLB,60,2019,Defense,69,81,88
 JAX,Jaguars,Cedric Ogbuehi,Cedric,Ogbuehi,RT,60,2019,Offense,83,73,72
 JAX,Jaguars,Tyler Shatley,Tyler,Shatley,C,60,2019,Offense,90,65,92
 JAX,Jaguars,Breon Borders,Breon,Borders,CB,59,2019,Defense,65,89,90
-JAX,Jaguars,Gardner Minshew II,Gardner,Minshew II,QB,59,2019,Offense,61,75,91
+LAR,Rams,Rodger Saffold III,Rodger,Saffold III,LG,79,2017,Offense,84,63,84
 JAX,Jaguars,Donnell Greene,Donnell,Greene,LT,57,2019,Offense,86,53,84
 JAX,Jaguars,Saivion Smith,Saivion,Smith,CB,57,2019,Defense,57,85,86
 JAX,Jaguars,Nick DeLuca,Nick,DeLuca,LOLB,56,2019,Defense,65,77,82
@@ -10651,7 +10651,7 @@ NYJ,Jets,Quincy Enunwa,Quincy,Enunwa,WR,79,2019,Offense,69,89,93
 NYJ,Jets,Steve McLendon,Steve,McLendon,DT,79,2019,Defense,86,62,90
 NYJ,Jets,Marcus Maye,Marcus,Maye,FS,78,2019,Defense,77,90,87
 NYJ,Jets,Brian Poole,Brian,Poole,CB,77,2019,Defense,68,89,86
-NYJ,Jets,Christopher Herndon IV,Christopher,Herndon IV,TE,76,2019,Offense,71,80,88
+LAR,Rams,Rodger Saffold III,Rodger,Saffold III,LG,80,2018,Offense,84,62,84
 NYJ,Jets,Darryl Roberts,Darryl,Roberts,CB,76,2019,Defense,70,92,85
 NYJ,Jets,Jordan Jenkins,Jordan,Jenkins,LOLB,75,2019,Defense,85,76,86
 NYJ,Jets,Kelvin Beachum,Kelvin,Beachum,LT,74,2019,Offense,84,57,95
@@ -10897,7 +10897,7 @@ CAR,Panthers,Javien Elliott,Javien,Elliott,CB,66,2019,Defense,65,89,87
 CAR,Panthers,Will Grier,Will,Grier,QB,66,2019,Offense,60,78,89
 CAR,Panthers,Marquis Haynes,Marquis,Haynes,RE,66,2019,Defense,76,82,91
 CAR,Panthers,Corn Elder,Corn,Elder,CB,65,2019,Defense,67,90,90
-CAR,Panthers,Terry Godwin II,Terry,Godwin II,WR,65,2019,Offense,61,89,89
+TEN,Titans,Rodger Saffold III,Rodger,Saffold III,LG,83,2019,Offense,87,62,84
 CAR,Panthers,Greg Little,Greg,Little,LT,65,2019,Offense,83,61,89
 CAR,Panthers,Kai Nacua,Kai,Nacua,FS,65,2019,Defense,70,88,88
 CAR,Panthers,Jermaine Carter Jr,Jermaine,Carter Jr,MLB,64,2019,Defense,75,83,90
@@ -10960,7 +10960,7 @@ NE,Patriots,Duron Harmon,Duron,Harmon,SS,75,2019,Defense,65,88,92
 NE,Patriots,JC Jackson,JC,Jackson,CB,75,2019,Defense,58,90,88
 NE,Patriots,Ja'Whaun Bentley,Ja'Whaun,Bentley,MLB,74,2019,Defense,86,81,82
 NE,Patriots,N'Keal Harry,N'Keal,Harry,WR,74,2019,Offense,75,88,93
-NE,Patriots,Dontrelle Inman,Dontrelle,Inman,WR,74,2019,Offense,60,87,92
+LAC,Chargers,Michael Schofield III,Michael,Schofield III,RG,68,2019,Offense,85,71,94
 NE,Patriots,Danny Shelton,Danny,Shelton,DT,74,2019,Defense,93,51,90
 NE,Patriots,John Simon,John,Simon,LE,74,2019,Defense,82,81,86
 NE,Patriots,Jamie Collins Sr,Jamie,Collins Sr,LOLB,73,2019,Defense,73,85,95
@@ -10977,7 +10977,7 @@ NE,Patriots,Braxton Berrios,Braxton,Berrios,WR,69,2019,Offense,50,91,82
 NE,Patriots,Terrence Brooks,Terrence,Brooks,SS,69,2019,Defense,55,91,83
 NE,Patriots,Adam Butler,Adam,Butler,DT,69,2019,Defense,84,65,89
 NE,Patriots,Damien Harris,Damien,Harris,HB,69,2019,Offense,74,87,86
-NE,Patriots,Ryan Izzo,Ryan,Izzo,TE,69,2019,Offense,70,74,87
+HOU,Texans,Cecil Shorts III,Cecil,Shorts III,WR,73,2016,Offense,44,88,87
 NE,Patriots,Chase Winovich,Chase,Winovich,RE,69,2019,Defense,77,85,87
 NE,Patriots,Shilique Calhoun,Shilique,Calhoun,LE,68,2019,Defense,79,78,91
 NE,Patriots,Keion Crossen,Keion,Crossen,CB,68,2019,Defense,53,95,89
@@ -11006,7 +11006,7 @@ NE,Patriots,Danny Etling,Danny,Etling,QB,50,2019,Offense,54,80,92
 NE,Patriots,James Ferentz,James,Ferentz,C,50,2019,Offense,79,65,90
 NE,Patriots,Joe Cardona,Joe,Cardona,TE,38,2019,Offense,82,75,91
 LAR,Rams,Aaron Donald,Aaron,Donald,RE,99,2019,Defense,99,83,98
-LAR,Rams,Todd Gurley II,Todd,Gurley II,HB,97,2019,Offense,75,92,85
+TB,Buccaneers,Charles Sims III,Charles,Sims III,HB,82,2016,Offense,67,89,84
 LAR,Rams,Andrew Whitworth,Andrew,Whitworth,LT,93,2019,Offense,92,62,90
 LAR,Rams,Brandin Cooks,Brandin,Cooks,WR,87,2019,Offense,54,95,92
 LAR,Rams,Aqib Talib,Aqib,Talib,CB,87,2019,Defense,70,87,87
@@ -11057,7 +11057,7 @@ LAR,Rams,Sebastian Joseph-Day,Sebastian,Joseph-Day,DT,63,2019,Defense,81,73,90
 LAR,Rams,Donte Deayon,Donte,Deayon,CB,63,2019,Defense,54,87,88
 LAR,Rams,Brian Allen,Brian,Allen,C,62,2019,Offense,70,91,90
 LAR,Rams,Kendall Blanton,Kendall,Blanton,TE,62,2019,Offense,78,76,86
-LAR,Rams,Matt Colburn II,Matt,Colburn II,HB,62,2019,Offense,70,90,89
+TB,Buccaneers,Charles Sims III,Charles,Sims III,HB,82,2017,Offense,67,89,84
 LAR,Rams,Mike Thomas,Mike,Thomas,WR,62,2019,Offense,63,88,90
 LAR,Rams,Dakota Allen,Dakota,Allen,MLB,61,2019,Defense,73,80,88
 LAR,Rams,Kevin Peterson,Kevin,Peterson,CB,61,2019,Defense,61,86,86
@@ -11080,7 +11080,7 @@ BAL,Ravens,Earl Thomas III,Earl,Thomas III,FS,95,2019,Defense,67,89,91
 BAL,Ravens,Michael Pierce,Michael,Pierce,DT,92,2019,Defense,96,72,87
 BAL,Ravens,Marshal Yanda,Marshal,Yanda,RG,91,2019,Offense,93,62,93
 BAL,Ravens,Justin Tucker,Justin,Tucker,K,87,2019,Special Teams,40,75,95
-BAL,Ravens,Mark Ingram II,Mark,Ingram II,HB,86,2019,Offense,82,88,86
+TB,Buccaneers,Charles Sims III,Charles,Sims III,HB,77,2018,Offense,67,89,84
 BAL,Ravens,Brandon Williams,Brandon,Williams,LE,86,2019,Defense,96,58,87
 BAL,Ravens,Marlon Humphrey,Marlon,Humphrey,CB,85,2019,Defense,74,92,89
 BAL,Ravens,Sam Koch,Sam,Koch,P,85,2019,Special Teams,50,71,85
@@ -11094,7 +11094,7 @@ BAL,Ravens,Orlando Brown Jr,Orlando,Brown Jr,RT,79,2019,Offense,91,50,93
 BAL,Ravens,Pernell McPhee,Pernell,McPhee,ROLB,79,2019,Defense,92,77,85
 BAL,Ravens,Patrick Ricard,Patrick,Ricard,FB,79,2019,Offense,90,71,79
 BAL,Ravens,Hayden Hurst,Hayden,Hurst,TE,78,2019,Offense,69,83,90
-BAL,Ravens,Willie Snead IV,Willie,Snead IV,WR,78,2019,Offense,64,89,90
+NO,Saints,Willie Snead IV,Willie,Snead IV,WR,81,2017,Offense,64,89,90
 BAL,Ravens,Nick Boyle,Nick,Boyle,TE,77,2019,Offense,72,72,92
 BAL,Ravens,Marquise Brown,Marquise,Brown,WR,77,2019,Offense,44,97,86
 BAL,Ravens,Seth Roberts,Seth,Roberts,WR,77,2019,Offense,56,90,90
@@ -11125,7 +11125,7 @@ BAL,Ravens,James Hurst,James,Hurst,LG,67,2019,Offense,78,52,87
 BAL,Ravens,Cyrus Jones,Cyrus,Jones,SS,67,2019,Defense,63,90,88
 BAL,Ravens,Iman Lewis-Marshall,Iman,Lewis-Marshall,CB,67,2019,Defense,65,88,85
 BAL,Ravens,Daylon Mack,Daylon,Mack,DT,67,2019,Defense,86,69,89
-BAL,Ravens,Robert Griffin III,Robert,Griffin III,QB,66,2019,Offense,55,85,78
+BAL,Ravens,Willie Snead IV,Willie,Snead IV,WR,76,2018,Offense,64,89,90
 BAL,Ravens,Jordan Lasley,Jordan,Lasley,WR,66,2019,Offense,44,89,91
 BAL,Ravens,Chuck Clark,Chuck,Clark,FS,65,2019,Defense,67,88,93
 BAL,Ravens,DeShon Elliott,DeShon,Elliott,FS,65,2019,Defense,57,86,88
@@ -11293,7 +11293,7 @@ NO,Saints,Cameron Tom,Cameron,Tom,C,58,2019,Offense,85,76,94
 NO,Saints,Matthew Dayes,Matthew,Dayes,HB,57,2019,Offense,67,84,87
 NO,Saints,Ethan Greenidge,Ethan,Greenidge,RG,56,2019,Offense,84,57,85
 NO,Saints,Taysom Hill,Taysom,Hill,QB,56,2019,Offense,67,89,81
-NO,Saints,J.T. Barrett IV,J.T.,Barrett IV,QB,53,2019,Offense,66,82,86
+BAL,Ravens,Willie Snead IV,Willie,Snead IV,WR,78,2019,Offense,64,89,90
 NO,Saints,Ulrick John,Ulrick,John,RT,53,2019,Offense,78,65,84
 NO,Saints,Zach Wood,Zach,Wood,TE,36,2019,Offense,75,67,86
 SEA,Seahawks,Bobby Wagner,Bobby,Wagner,MLB,99,2019,Defense,81,88,98
@@ -11318,7 +11318,7 @@ SEA,Seahawks,Ed Dickson,Ed,Dickson,TE,76,2019,Offense,68,82,88
 SEA,Seahawks,D.K. Metcalf,D.K.,Metcalf,WR,76,2019,Offense,77,95,81
 SEA,Seahawks,David Moore,David,Moore,WR,76,2019,Offense,77,91,91
 SEA,Seahawks,Nick Vannett,Nick,Vannett,TE,75,2019,Offense,73,76,86
-SEA,Seahawks,Mike Iupati,Mike,Iupati,LG,74,2019,Offense,90,60,88
+DET,Lions,Golden Tate III,Golden,Tate III,WR,89,2016,Offense,59,90,89
 SEA,Seahawks,J.D. McKissic,J.D.,McKissic,HB,74,2019,Offense,69,88,88
 SEA,Seahawks,Barkevious Mingo,Barkevious,Mingo,LOLB,74,2019,Defense,69,85,90
 SEA,Seahawks,Tedric Thompson,Tedric,Thompson,FS,74,2019,Defense,68,86,86
@@ -11327,7 +11327,7 @@ SEA,Seahawks,Will Dissly,Will,Dissly,TE,73,2019,Offense,77,77,89
 SEA,Seahawks,Cassius Marsh,Cassius,Marsh,LE,72,2019,Defense,71,82,92
 SEA,Seahawks,Poona Ford,Poona,Ford,DT,71,2019,Defense,85,68,90
 SEA,Seahawks,Jacob Hollister,Jacob,Hollister,TE,71,2019,Offense,67,84,84
-SEA,Seahawks,Germain Ifedi,Germain,Ifedi,RT,71,2019,Offense,84,63,87
+DET,Lions,Golden Tate III,Golden,Tate III,WR,87,2017,Offense,59,89,89
 SEA,Seahawks,Jamar Taylor,Jamar,Taylor,CB,70,2019,Defense,67,91,85
 SEA,Seahawks,Ben Burr-Kirven,Ben,Burr-Kirven,MLB,69,2019,Defense,71,85,87
 SEA,Seahawks,L.J. Collier,L.J.,Collier,RE,69,2019,Defense,83,75,89
@@ -11511,7 +11511,7 @@ HOU,Texans,Buddy Howell,Buddy,Howell,HB,59,2019,Offense,72,87,84
 HOU,Texans,Derrick Baity Jr,Derrick,Baity Jr,CB,58,2019,Defense,55,85,90
 HOU,Texans,Chris Landrum,Chris,Landrum,ROLB,57,2019,Defense,74,79,88
 HOU,Texans,Rick Leonard,Rick,Leonard,RT,55,2019,Offense,80,67,89
-HOU,Texans,Joe Webb III,Joe,Webb III,QB,53,2019,Offense,67,87,88
+DET,Lions,Golden Tate III,Golden,Tate III,WR,89,2018,Offense,62,89,89
 HOU,Texans,Isaac Whitney,Isaac,Whitney,WR,53,2019,Offense,42,93,85
 HOU,Texans,Maurquice Shakir,Maurquice,Shakir,C,52,2019,Offense,86,53,90
 HOU,Texans,David Steinmetz,David,Steinmetz,RT,51,2019,Offense,81,60,84
@@ -11522,7 +11522,7 @@ TEN,Titans,Jurrell Casey,Jurrell,Casey,RE,86,2019,Defense,92,71,94
 TEN,Titans,Dion Lewis,Dion,Lewis,HB,84,2019,Offense,61,90,83
 TEN,Titans,Cameron Wake,Cameron,Wake,LOLB,84,2019,Defense,85,79,92
 TEN,Titans,Derrick Henry,Derrick,Henry,HB,83,2019,Offense,85,89,90
-TEN,Titans,Rodger Saffold III,Rodger,Saffold III,LG,83,2019,Offense,87,62,84
+NYG,Giants,Golden Tate III,Golden,Tate III,WR,85,2019,Offense,62,90,89
 TEN,Titans,Adoree' Jackson,Adoree',Jackson,CB,83,2019,Defense,57,93,88
 TEN,Titans,Corey Davis,Corey,Davis,WR,82,2019,Offense,72,90,87
 TEN,Titans,Logan Ryan,Logan,Ryan,CB,82,2019,Defense,60,87,94
@@ -11616,7 +11616,7 @@ MIN,Vikings,Josh Kline,Josh,Kline,RG,72,2019,Offense,83,69,90
 MIN,Vikings,Laquon Treadwell,Laquon,Treadwell,WR,72,2019,Offense,73,87,88
 MIN,Vikings,C.J. Ham,C.J.,Ham,FB,71,2019,Offense,77,83,90
 MIN,Vikings,Holton Hill,Holton,Hill,CB,71,2019,Defense,59,89,85
-MIN,Vikings,David Morgan II,David,Morgan II,TE,71,2019,Offense,81,72,82
+OAK,Raiders,Chris Warren III,Chris,Warren III,HB,64,2018,Offense,81,83,82
 MIN,Vikings,Mike Hughes,Mike,Hughes,CB,70,2019,Defense,67,89,93
 MIN,Vikings,Brian O'Neill,Brian,O'Neill,RT,70,2019,Offense,82,79,93
 MIN,Vikings,Stephen Weatherly,Stephen,Weatherly,LE,70,2019,Defense,78,82,88
@@ -11649,7 +11649,7 @@ MIN,Vikings,Reshard Cliett,Reshard,Cliett,ROLB,62,2019,Defense,73,85,86
 MIN,Vikings,Devante Downs,Devante,Downs,MLB,62,2019,Defense,76,78,84
 MIN,Vikings,Marcus Epps,Marcus,Epps,FS,62,2019,Defense,63,87,88
 MIN,Vikings,Rashod Hill,Rashod,Hill,RT,62,2019,Offense,80,62,87
-MIN,Vikings,Danny Isidora,Danny,Isidora,RG,62,2019,Offense,85,72,86
+OAK,Raiders,Chris Warren III,Chris,Warren III,HB,60,2019,Offense,81,84,82
 MIN,Vikings,Ifeadi Odenigbo,Ifeadi,Odenigbo,DT,62,2019,Defense,80,82,88
 MIN,Vikings,Kris Boyd,Kris,Boyd,CB,61,2019,Defense,65,91,88
 MIN,Vikings,Craig James,Craig,James,CB,61,2019,Defense,56,89,83
@@ -11679,7 +11679,7 @@ OAK,Raiders,Ryan Grant,Ryan,Grant,WR,77,2019,Offense,54,88,87
 OAK,Raiders,Gabe Jackson,Gabe,Jackson,RG,77,2019,Offense,92,54,92
 OAK,Raiders,Vontaze Burfict,Vontaze,Burfict,ROLB,76,2019,Defense,79,79,96
 OAK,Raiders,Johnathan Hankins,Johnathan,Hankins,DT,76,2019,Defense,91,60,90
-OAK,Raiders,Richie Incognito,Richie,Incognito,LG,76,2019,Offense,92,70,89
+HOU,Texans,Joe Webb III,Joe,Webb III,QB,68,2018,Offense,65,88,88
 OAK,Raiders,Tahir Whitehead,Tahir,Whitehead,LOLB,76,2019,Defense,71,83,96
 OAK,Raiders,Nevin Lawson,Nevin,Lawson,CB,75,2019,Defense,66,89,89
 OAK,Raiders,Brandon Marshall,Brandon,Marshall,MLB,75,2019,Defense,77,84,89
@@ -11730,7 +11730,7 @@ OAK,Raiders,Dallin Leavitt,Dallin,Leavitt,SS,62,2019,Defense,62,87,85
 OAK,Raiders,Keith Smith,Keith,Smith,FB,62,2019,Offense,76,77,90
 OAK,Raiders,Quinton Bell,Quinton,Bell,RE,61,2019,Defense,75,88,87
 OAK,Raiders,Mike Glennon,Mike,Glennon,QB,61,2019,Offense,59,69,86
-OAK,Raiders,Chris Warren III,Chris,Warren III,HB,60,2019,Offense,81,84,82
+HOU,Texans,Joe Webb III,Joe,Webb III,QB,53,2019,Offense,67,87,88
 OAK,Raiders,Jordan Devey,Jordan,Devey,C,58,2019,Offense,81,62,87
 OAK,Raiders,Makinton Dorleant,Makinton,Dorleant,CB,57,2019,Defense,68,92,88
 OAK,Raiders,David Sharpe,David,Sharpe,LT,57,2019,Offense,85,58,90
